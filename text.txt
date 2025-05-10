@@ -1,0 +1,26 @@
+İlk olarak verileri görselleştir ve tablo halinde göster.Grafikler halinde göster.Verilerin okunmasını kolaylaştır. 
+Standart sapma, ortalama, medyan, mod, minimum, maksimum değerleri gibi istatistiksel değerleri hesaplayacağız.
+
+Notların anlamı:
+| Puan Aralığı | Not İsmi      | Anlamı                          |
+| ------------ | ------------- | ------------------------------- |
+| 90 – 100     | AA / Pekiyi   | Mükemmel                        |
+| 85 – 89      | BA / Çok İyi  | Çok Başarılı                    |
+| 80 – 84      | BB / İyi      | Başarılı                        |
+| 70 – 79      | CB / Orta-İyi | Yeterli                         |
+| 60 – 69      | CC / Orta     | Sınırda Geçer                   |
+| 50 – 59      | DC / Koşullu  | Şartlı geçer (bazı sistemlerde) |
+| 40 – 49      | DD / Zayıf    | Başarısız (bazı yerlerde geçer) |
+| 0 – 39       | FF / Kaldı    | Başarısız                       |
+
+
+Sınıflandırma Yöntemleri kullanılacak. ve bu yöntemlerin performansları karşılaştırılacak.
+ • Karar ağaçları
+ • Regresyon ağaçları
+ • Bellek temelli sınıflandırma
+ • Yapay sinir ağları
+ • Sade (Naïve) Bayes ağları
+
+Veriler kullanılarak öğrencilerin başarıları tahmin edilecek.
+
+Birliktelik kuralları kullanılarak öğrencinin başarısı anlaşılmaya çalışılacak.
